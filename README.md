@@ -22,3 +22,7 @@ nearest airport: Kansas City International Airport
 3 min (2.2 mi)
 
 4. Continue on Broadway Blvd/Penn Valley Dr to your destination
+###### other locations around the museum 
+* Liberty memorial
+* Kansas city Zoo
+* Crown center
