@@ -32,3 +32,5 @@ nearest airport: Kansas City International Airport
 | Chicago     |     Sky deck     |         30min                                            |
 | San Jose    |     park avenue  |         20min                                            |
 | Seattle     |     Space needl  |          30min                                           |           
+
+[link to AboutMe.md](https://github.com/praneethvallabhaneni/assignment2-Vallabhaneni/blob/main/AboutMe.md)
