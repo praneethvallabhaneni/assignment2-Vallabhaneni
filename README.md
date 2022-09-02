@@ -27,4 +27,4 @@ nearest airport: Kansas City International Airport
 * Kansas city Zoo
 * Crown center
 
-Link to AboutME.md <AboutMe.md>
+[link to AboutMe.md](https://github.com/praneethvallabhaneni/assignment2-Vallabhaneni/blob/main/AboutMe.md)
