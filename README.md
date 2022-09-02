@@ -26,3 +26,9 @@ nearest airport: Kansas City International Airport
 * Liberty memorial
 * Kansas city Zoo
 * Crown center
+| City        | Location in city |  amount of time to spend visiting the important location |
+| :---        |    :----:        |          ---:                                            |  
+| Hyderabad   |     charminar    |         10min                                            |
+| Chicago     |     Sky deck     |         30min                                            |
+| San Jose    |     park avenue  |         20min                                            |
+| Seattle     |     Space needl  |          30min                                           |           
