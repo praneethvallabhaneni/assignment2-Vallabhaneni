@@ -28,11 +28,11 @@ nearest airport: Kansas City International Airport
 * Crown center
 
 | City        | Location in city |  amount of time to spend visiting the important location |
-| ----------- | -----------------| ---------------------------------------------------------|          |                  
+| ----------- | -----------------| -------------------------------------------------------- |                      
 | Hyderabad   |     charminar    |         10min                                            |
 | Chicago     |     Sky deck     |         30min                                            |
 | San Jose    |     park avenue  |         20min                                            |
-| Seattle     |     Space needl  |          30min                                           |           
+| Seattle     |     Space needl  |         30min                                            |           
 
 [link to AboutMe.md](https://github.com/praneethvallabhaneni/assignment2-Vallabhaneni/blob/main/AboutMe.md)
 
@@ -41,3 +41,7 @@ nearest airport: Kansas City International Airport
 # Pithy Quotes
 1. **The purpose of our lives is to be really happy** - *DALAI LAMA*
 2. **Life is a succession of lessons which must be lived to be understood** - *Helen Keller*
+
+--------------------
+
+# Code Fencing
