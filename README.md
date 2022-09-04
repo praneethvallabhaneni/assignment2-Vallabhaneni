@@ -45,3 +45,23 @@ nearest airport: Kansas City International Airport
 --------------------
 
 # Code Fencing
+
+<pre>
+@function pow($x, $n) {
+  $ret: 1;
+    
+  @if $n >= 0 {
+    @for $i from 1 through $n {
+      $ret: $ret * $x;
+    } 
+  } @else {
+    @for $i from $n to 0 {
+      $ret: $ret / $x;
+    }
+  }
+  
+  @return $ret;
+}
+</pre>
+<a href="https://css-tricks.com/snippets/sass/fix-number-n-digits/">
+
