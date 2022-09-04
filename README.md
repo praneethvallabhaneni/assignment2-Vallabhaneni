@@ -35,3 +35,9 @@ nearest airport: Kansas City International Airport
 | Seattle     |     Space needl  |          30min                                           |           
 
 [link to AboutMe.md](https://github.com/praneethvallabhaneni/assignment2-Vallabhaneni/blob/main/AboutMe.md)
+
+--------------------
+
+# Pithy Quotes
+1. **The purpose of our lives is to be really happy** - *DALAI LAMA*
+2. **Life is a succession of lessons which must be lived to be understood** - *Helen Keller*
