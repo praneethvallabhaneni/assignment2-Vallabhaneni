@@ -63,5 +63,5 @@ nearest airport: Kansas City International Airport
   @return $ret;
 }
 </pre>
-<a href="https://css-tricks.com/snippets/sass/fix-number-n-digits/">
+<a href="https://css-tricks.com/snippets/sass/fix-number-n-digits/"></a>
 
